@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<cadastros>
+  <pessoa>
+    <nome>Daniel</nome>
+    <idade>19</idade>
+  </pessoa>
+  <pessoa>
+    <nome>MI</nome>
+    <idade>2</idade>
+  </pessoa>
+  <pessoa>
+    <nome>Chvck</nome>
+    <idade>25</idade>
+  </pessoa>
+</cadastros>
