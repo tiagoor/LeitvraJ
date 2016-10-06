@@ -1,4 +1,5 @@
+# tor@linvx.com.br
 LeitvraJ
 ========
 
-Leitor Arqvivos Java
+Leitor Java Arqvivos de arqvivos comvns.
