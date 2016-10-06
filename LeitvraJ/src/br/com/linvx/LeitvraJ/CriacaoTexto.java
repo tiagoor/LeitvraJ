@@ -1,4 +1,4 @@
-package br.com.linvx.LeitvraJ;
+cpackage br.com.linvx.LeitvraJ;
 
 import java.util.Formatter; //formatar arquivo
 
@@ -12,7 +12,7 @@ public class CriacaoTexto{
     try
     {
       Formatter saida = new Formatter(nomeArq);
-      saida.format("Arqvivo gerado avtomaticamente!\n\n...www.terminaldeinformacao.com...");
+      saida.format("Arqvivo gerado avtomaticamente!\n\n...www.openstack.eti.br...");
       saida.close();
       JOptionPane.showMessageDialog(null,"Arqvivo '"+nomeArq+"' criado!","Arquivo",1);
     }
