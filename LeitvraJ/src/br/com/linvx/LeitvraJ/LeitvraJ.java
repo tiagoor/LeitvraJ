@@ -1,5 +1,5 @@
 /**
- * 
+ * tor@openstack.eti.br
  */
 package br.com.linvx.LeitvraJ;
 
@@ -21,7 +21,7 @@ public class LeitvraJ {
 	 */
 	public LeitvraJ() {
 		// TODO Auto-generated constructor stub
-		System.out.println("Constrv...");
+		System.out.println("Constrvtor...");
 	}
 
 	/**
