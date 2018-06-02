@@ -1,5 +1,5 @@
 /**
- * 
+ * tor@openstack.eti.br
  */
 package br.com.linvx.LeitvraJ;
 
@@ -21,7 +21,7 @@ public class LeitvraJ {
 	 */
 	public LeitvraJ() {
 		// TODO Auto-generated constructor stub
-		System.out.println("Constrv...");
+		System.out.println("Constrvtor...");
 	}
 
 	/**
@@ -31,7 +31,7 @@ public class LeitvraJ {
 		// TODO Auto-generated method stub
 		System.out.println("main...");
 		String mostra = "";
-		String nomeArq = "/home/tor/workspace/LeitvraJ/src/br/com/linvx/LeitvraJ/arqvivo.txt"; // Nome do arqvivo, pode ser absolvto,
+		String nomeArq = "arqvivo.txt"; // Nome do arqvivo, pode ser absolvto,
 										// ou pastas /dir/teste.txt
 		String linha = "";
 		File arq = new File(nomeArq);
