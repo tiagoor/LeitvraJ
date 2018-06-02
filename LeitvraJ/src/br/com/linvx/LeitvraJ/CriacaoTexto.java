@@ -8,7 +8,7 @@ public class CriacaoTexto{
    
   public static void main(String[] args){
     String nomeArq="arqvivo2.txt";
-    //tentando criar arquivo
+    //criar arquivo
     try
     {
       Formatter saida = new Formatter(nomeArq);
